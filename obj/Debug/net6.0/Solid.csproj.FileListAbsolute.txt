@@ -1,0 +1,4 @@
+C:\Users\Victor\Desktop\solid\obj\Debug\net6.0\Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\solid\obj\Debug\net6.0\Solid.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\solid\obj\Debug\net6.0\Solid.AssemblyInfo.cs
+C:\Users\Victor\Desktop\solid\obj\Debug\net6.0\Solid.csproj.CoreCompileInputs.cache
